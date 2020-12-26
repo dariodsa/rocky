@@ -11,17 +11,17 @@
 
 ## Uvod
 
-Rocky Linux je is a community enterprise Operating System dizajniran kako bi bio 100% od bug-a do bug-a kompaktibilab sa Enterprise Linux, pogotovo sada kad je CentOS promijenio smjer.
+Rocky Linux je operacijski sustav dizajniran kako bi bio 100% od bug-a do bug-a kompaktibilan s Enterprise Linuxom, pogotovo sada kad je CentOS promijenio smjer.
 
 ## Često postavljena pitanja
 
 > **P:** Kako to mislite da je "CentOS promijenio smjer?"
 
-CentOS projekt [recently announced](https://blog.centos.org/2020/12/future-is-centos-stream/) je promjena u strategiji za CentOS. CentOS je prije egzistirao kao projekt koji se šlepao sa glavnim OS-om (primao je nadogradnju kasnije), no sada će on primati nadogradnju ranije od glavnog OSa (testirati će zakrpe i nadogradnje prije njihovog uključivanja u glavni OS).
+CentOS projekt je [nedavno objavio](https://blog.centos.org/2020/12/future-is-centos-stream/) promjenu u strategiji za CentOS. CentOS je prije egzistirao kao projekt koji se šlepao s glavnim OS-om (primao je nadogradnju kasnije), no sada će on primati nadogradnju ranije od glavnog OSa (testirat će zakrpe i nadogradnje prije njihovog uključivanja u glavni OS).
 
 Dodatno, podrška za CentOS Linux 8 je smanjena, od svibnja 31, 2029 do prosinca 31, 2021.
 
-> **P:** Kakve to veze ima sa Rocky Linuxom?
+> **P:** Kakve to veze ima s Rocky Linuxom?
 
 Rocky Linux želi primati nadogradnje kasnije kao što ih je ranije dobivao CentOS, nakon što su one dodane u glavni OS, a nikako ne ranije.
 
@@ -39,7 +39,7 @@ Mi svi, Rocky Linux je projekt vođen od zajednice i tako će uvijek i biti. Roc
 
 > **P:** Kako se mogu uključiti?
 
-Molim te pogledaj podpoglavlje [doprinosi](#doprinosi) dolje niže.
+Molim te pogledaj potpoglavlje [doprinosi](#doprinosi) dolje niže.
 
 ## Kontakt
 
@@ -47,8 +47,8 @@ Molim te pogledaj podpoglavlje [doprinosi](#doprinosi) dolje niže.
 |-------------------------------|-------------------------------------------|
 | PR služba                     | outreach@rockylinux.org                   |
 | Razvojni                      | development@rockylinux.org                |
-| Infrastrkturalni              | infrastructure@rockylinux.org             |
-| Sigurnostni                   | security@rockylinux.org                   |
+| Infrastrukturalni             | infrastructure@rockylinux.org             |
+| Sigurnosni                    | security@rockylinux.org                   |
 | Web i promidžba               | web@rockylinux.org, brand@rockylinux.com  |
 
 
@@ -76,7 +76,7 @@ Ako ste zainteresirani za donaciju ili sponzoriranje projekta, molimo pošaljite
 
 ## Specijalna zahvala
 
-Želimo zahvaliti slijedećim grupama za njihovu potporu ovomu projektu:
+Želimo zahvaliti sljedećim grupama za njihovu dosadašnju potporu ovomu projektu:
 * [Ctrl IQ, Inc.](https://www.ctrl-cmd.com)
 * [The OSU Open Source Lab](https://osuosl.org/)
 * [Clouvider](https://www.clouvider.co.uk/)
